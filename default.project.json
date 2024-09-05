@@ -1,0 +1,6 @@
+{
+	"name": "gamelauncher",
+	"tree": {
+		"$path": "src"
+	}
+}
